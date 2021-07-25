@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Moiz Ahmad and I'm currently attending App Academy, a software engineering bootcamp. That's all, folks.
+
 <!--
 **monemad/monemad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
