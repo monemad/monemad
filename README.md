@@ -18,6 +18,7 @@ Experienced in:
 - Redux
 - SQL
 - PostgreSQL
+- GraphQL
 - SLQAlchemy
 - Sequelize
 - Git
