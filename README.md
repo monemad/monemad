@@ -5,7 +5,7 @@ Hi, I'm a software engineer passionate about software and motivated by the vario
 My passion for software stems from a high school project in which we built a rocket probe to detect radiation levels at various altitudes. We lacked sophisticated sensors, but were able to make up for that with software and some clever calculations. This concept, of using software to compensate for lack of dedicated hardware, made me realize the software is unlimited, accessible, and ubiquitous.
 
 ## My GitHub Stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=monemad&count_private=true&theme=darcula&showicons=true)](https://github.com/monemad?tab=repositories)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=monemad&count_private=true&theme=gruvbox&showicons=true)](https://github.com/monemad?tab=repositories)
 
 I have extensive experience with object-oriented programming and strong foundations in object-oriented and procedural design principles. I've built and deployed numerous full-stack web applications, demonstrating my talents as a web developer and grasp of relevant industry technologies.
 
