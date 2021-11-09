@@ -12,7 +12,7 @@ I have extensive experience with object-oriented programming and strong foundati
 Experienced in:
 - Python
 - Flask
-- JavaScript
+- JavaScript / TypeScript
 - Node.js
 - React
 - Redux
