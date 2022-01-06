@@ -7,7 +7,7 @@ My passion for software stems from a high school project in which we built a roc
 ## My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=monemad&count_private=true&theme=gruvbox&showicons=true)](https://github.com/monemad?tab=repositories)
 
-I have extensive experience with object-oriented programming and strong foundations in object-oriented and procedural design principles. I've built and deployed numerous full-stack web applications, demonstrating my talents as a web developer and grasp of relevant industry technologies.
+I have extensive experience with object-oriented programming and strong foundations in object-oriented and procedural design principles. I've built and deployed numerous full-stack web applications, demonstrating my talents as a software engineer and grasp of relevant industry technologies.
 
 Experienced in:
 - Python
