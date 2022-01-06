@@ -1,6 +1,6 @@
-### Welcome! 👋
+### Hi, I'm Moiz Ahmad! 👋
 
-Hi, I'm a software engineer passionate about software and motivated by the various challenges that I can solve using it.
+I'm a software engineer passionate about software and motivated by the various challenges that I can solve using it.
 
 My passion for software stems from a high school project in which we built a rocket probe to detect radiation levels at various altitudes. We lacked sophisticated sensors, but were able to make up for that with software and some clever calculations. This concept, of using software to compensate for lack of dedicated hardware, made me realize the software is unlimited, accessible, and ubiquitous.
 
