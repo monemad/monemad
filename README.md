@@ -4,7 +4,7 @@ I'm a software engineer passionate about software and motivated by the various c
 
 My passion for software stems from a high school project in which we built a rocket probe to detect radiation levels at various altitudes. We lacked sophisticated sensors, but were able to make up for that with software and some clever calculations. This concept, of using software to compensate for lack of dedicated hardware, made me realize the software is unlimited, accessible, and ubiquitous.
 
-I'm currently a founding engineer working at 3DNS, where we're building the infrastructure for the future of domains. Take ownership of your domain across web2 and web3 to truly control your online identity.
+I'm currently a founding engineer working at [3DNS](https://github.com/3dns-xyz), where we're building the infrastructure for the future of domains. Take ownership of your domain across web2 and web3 to truly control your online identity.
 
 ## My GitHub Stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=monemad&count_private=true&theme=gruvbox&showicons=true)](https://github.com/monemad?tab=repositories)
